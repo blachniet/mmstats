@@ -1,5 +1,7 @@
 # mmstats
 
+Retrieve user stats from a Mattermost instance.
+
 ## Develop
 
 ```bash
