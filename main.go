@@ -31,6 +31,7 @@ func main() {
 }
 
 func printTeamStats(c *model.Client4, execTime time.Time, u *model.User, t *model.Team) {
+	fmt.Println("")
 	fmt.Println("---")
 	fmt.Println("Team:", t.Name)
 
